@@ -1,5 +1,6 @@
 Minesweeper Game (South Park Edition)
 ================
+![image](http://)
 
 This game is an assignment of Object Oriented Software Design course, Ben Gurion University, June 2013.
 
