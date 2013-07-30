@@ -2,7 +2,7 @@ Minesweeper Game (South Park Edition)
 ================
 ![image](https://dl.dropboxusercontent.com/u/4041100/github/minesweeper1.png)
 
-This game was an assignment in Object Oriented Software Design course, Ben Gurion University, June 2013.
+This game was an assignment for Object Oriented Software Design course, Ben Gurion University, June 2013.
 
 The game was built on Java & Swing.
 
