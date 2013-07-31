@@ -6,7 +6,7 @@ import minesweeper.controllers.GameEngine;
 
 /**
  *  Minesweeper Game (South Park Edition)
- *  This game was an assignment of Object Oriented Software Design Course, Ben Gurion University, June 2013
+ *  This game was an assignment for Object Oriented Software Design course, Ben Gurion University, June 2013
  *  @author     Lidan Hifi
  *  @version    1.0
  */
